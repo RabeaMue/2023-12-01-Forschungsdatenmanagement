@@ -48,3 +48,7 @@ Füge deine/n Partner/in, Konrad (konrad) und Rabea (RabeaMue) als Collaborator 
 
 Fügt Eure Dateien (Jupyter Notebook, Skripte) zu dem Repositorium
 lokal hinzu und pusht die Änderungen zu GitHub.
+
+## Schritt 5 - Ordner für Modul 2 und 3 anlegen
+
+Wiederholt Schritt 1 und Schritt 2 für Modul 2 und Modul 3
