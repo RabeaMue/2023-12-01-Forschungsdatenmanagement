@@ -1,12 +1,10 @@
 # ZBIW Zertifikatskurs "Data Librarian"
 
-Materialsammlung des Zertifikatskurs ["Data Librarian"](https://www.th-koeln.de/weiterbildung/zertifikatskurs-data-librarian_63393.php) des [ZBIW](https://zbiw.th-koeln.de/) (TH Köln).
-
 ## Python
+- [Python-Kurzreferenz](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/cheat_sheets/python_de.md)
 
 ## Git / Github
-- git cheatsheet (zum ausdrucken): https://education.github.com/git-cheat-sheet-education.pdf
+- [Git-Kurzreferenz](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/short_references/Kurzreferenz_git.md)
 
 ## Shell
-
-## Programmieren allgemein
+- [Shell-Kurzreferenz](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/short_references/Kurzreferenz_shell.md)
