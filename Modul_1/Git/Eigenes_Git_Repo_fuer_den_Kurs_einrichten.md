@@ -40,15 +40,12 @@ git push
 
 ## Schritt 3 - Collaborator in GitHub hinzufügen
 
-Füge deine/n Partner/in, Konrad (konrad) und Rabea (RabeaMue) als Collaborator auf GitHub hinzu: "Settings" >
+Füge deine Gruppenmitglieder, Konrad (GitHub-Name: konrad) und Rabea (GitHub-Name: RabeaMue) als Collaborator auf GitHub hinzu: "Settings" >
 "Collaborators" und dort den Nutzernamen eingeben.
+Deine Gruppenmitglieder kannst du auf Moodle auf der Startseite von Modul 1 unter den Gruppenchats einsehen.
 
 
-## Schritt 4 - Fügt Eure Dateien hinzu
-
-Fügt Eure Dateien (Jupyter Notebook, Skripte) zu dem Repositorium
-lokal hinzu und pusht die Änderungen zu GitHub.
 
 ## Schritt 5 - Ordner für Modul 2 und 3 anlegen
 
-Wiederholt Schritt 1 und Schritt 2 für Modul 2 und Modul 3
+Wiederhole Schritt 1 und Schritt 2 für Modul 2 und Modul 3
