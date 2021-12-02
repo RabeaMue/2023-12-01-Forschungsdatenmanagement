@@ -1,4 +1,4 @@
-# ZBIW Zertifikatskurs "Data Librarian"
+# ZBIW Zertifikatskurs "Forschungsdatenmanagement"
 
 ## Python
 - [Python-Kurzreferenz](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/cheat_sheets/python_de.md)
