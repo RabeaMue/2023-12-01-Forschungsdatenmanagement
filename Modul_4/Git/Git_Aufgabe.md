@@ -5,9 +5,9 @@ Wir bitten euch hier eure Jupyter Notebooks aus der Python Aufgabe hochzuladen.
 
 Ihr könnt die Notebooks entweder in eurer lokales Git Repositorium einfügen und commiten:
 
-`git add .`
-`git commit -m "Add Jupyter Notebooks`
-`git push`
+`git add .`  
+`git commit -m "Add Jupyter Notebooks`  
+`git push`  
 
 oder die Notebooks direkt auf GitHub in eurem Repositorium hochladen. 
 Dafür könnt ihr auf eurer Repositorium gehen und aus das `+` Symbol klicken und auf `Upload files`.
